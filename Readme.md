@@ -29,7 +29,7 @@ This repository contains the exercises, notebooks, and mini-projects I complete 
 ---
 
 ## 📅 Update Schedule
-I update this repository **every 2–3 days** with new exercises or concepts as I learn.  
+I update this repository  **with new exercises or concepts as I learn**.  
 
 ---
 
